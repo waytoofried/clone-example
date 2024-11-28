@@ -1,0 +1,2 @@
+# clone-example
+Example repo
